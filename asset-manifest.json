@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thami-herris-portforlio/static/css/main.76ecdef4.css",
+    "main.js": "/thami-herris-portforlio/static/js/main.4bd7f2e9.js",
+    "index.html": "/thami-herris-portforlio/index.html",
+    "main.76ecdef4.css.map": "/thami-herris-portforlio/static/css/main.76ecdef4.css.map",
+    "main.4bd7f2e9.js.map": "/thami-herris-portforlio/static/js/main.4bd7f2e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76ecdef4.css",
+    "static/js/main.4bd7f2e9.js"
+  ]
+}
